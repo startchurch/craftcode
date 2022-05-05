@@ -1,0 +1,22 @@
+dateModified: 1651783733
+email:
+  fromEmail: colin.casey@startchurch.com
+  fromName: 'StartCHURCH Craft CMS'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    7651a1b9-41e6-4f36-8e86-0f2d7d86d778: 'StartCHURCH Craft CMS'
+    cf7e8522-fa19-42c4-b9b1-6990990438cc: Common
+    f5d495ad-562d-41d3-940e-720aface1db5: 'StartCHURCH Craft CMS'
+system:
+  edition: solo
+  live: true
+  name: 'StartCHURCH Craft CMS'
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
